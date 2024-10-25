@@ -1,0 +1,27 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 112.05 62">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 37.72px;
+        fill: #231f20;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g>
+    <image width="512" height="512" transform="scale(0.13 0.12)" xlink:href="C:%5CUsers%5ChP%5CDownloads%5Ckivy-icon-512.png"/>
+    <text class="cls-1" transform="translate(62.05 42.07) scale(0.76 1)"><tspan class="cls-2">K</tspan><tspan x="20.82" y="0">i</tspan><tspan class="cls-3" x="29.65" y="0">v</tspan><tspan class="cls-4" x="48.24" y="0">y</tspan></text>
+  </g>
+</svg>
